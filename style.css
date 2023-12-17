@@ -1,11 +1,11 @@
 @font-face {
     font-family: ralewayb;
-    src: url('../fonts/Raleway-Bold.ttf') format('truetype');
+    src: url('../Raleway-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: ralewayl;
-    src: url('../fonts/Raleway-Light.ttf') format('truetype');
+    src: url('../Raleway-Light.ttf') format('truetype');
 }
 
 .logotop {
